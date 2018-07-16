@@ -1,7 +1,7 @@
 # Socket
 Socket
 <h3>TCP</h3> 
-<p>面向连接的点对点协议，使用的类：</br>
+<p>面向连接的端对端协议，使用的类：</br>
 <ul>
   <li><code>Socket</code></li>
   <li><code>ServerSocket</code></li>
